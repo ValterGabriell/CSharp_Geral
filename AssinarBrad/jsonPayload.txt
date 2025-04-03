@@ -1,8 +1,0 @@
-{
-	"aud":"https://proxy.api.prebanco.com.br/auth/server/v1.1/token",
-	"sub":"c8fe651e-cdd1-46cb-8d89-aa7f096aa22b",
-	"iat":1739382885,
-	"exp":1739386485,
-	"jti":"1739382885491000",
-	"ver":"1.1"
-}
